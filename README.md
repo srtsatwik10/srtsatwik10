@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Satwik+Gupta!;" />
+</h1>
+
 Hello , I'm [Satwik Gupta](https://www.linkedin.com/in/satwik-gupta-181152236/), currently pursuing my Bachelor's degree in Electronics and Communication at BMS College of Engineering, Bangalore. In my final year of engineering, I've embarked on an exhilarating journey into the realms of Mobile App Development and Web Development.
 
 My fascination with these fields stems from my experiences as a self-taught frontend developer and backend developer. As I delve deeper into data-driven projects, such as the ones I've previously shared, I am increasingly drawn to the potential of leveraging data to derive actionable insights and build apps and websites.
@@ -40,7 +44,5 @@ Looking forward, my aim is to become a Software Developer, leveraging my skills 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-<p align="center">
-        ![image](https://github.com/user-attachments/assets/ec1c82db-f2c5-4873-9c49-2bd55684b790)
+![Example Image](https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5MDgxNjksIm5iZiI6MTcyMTkwNzg2OSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI1VDExNDQyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4Y2U3NTk1Y2I1YzUwMWRiNzNiODBhNTJkODQ3NzIwZmI1Y2ZiOTVhYWQzMWZmY2UwZTgwMzkxOTEwOTU3NTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.rezjxzLJDVSSp9af5DpPVxyrUNYj79mSKbIRsJb_oVY)
 
-</p>
