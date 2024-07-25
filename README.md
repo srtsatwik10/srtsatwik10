@@ -41,5 +41,6 @@ Looking forward, my aim is to become a Software Developer, leveraging my skills 
 </p>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <p align="center">
-        <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5MDgxNjksIm5iZiI6MTcyMTkwNzg2OSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI1VDExNDQyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlMzQ0M2ZmZjUzYjQzY2FjYWYxNmQ4OTliYThiN2JjNTA2ZTdmZmEyMDBjZTE5MmVkOGQxYjc5M2M2Y2FjZTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cRim9MXORJ0cESbNFC5f44JGlb39rou5Rovaw6CIYLo" alt="Github Stats" />
+        ![image](https://github.com/user-attachments/assets/ec1c82db-f2c5-4873-9c49-2bd55684b790)
+
 </p>
