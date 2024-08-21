@@ -15,7 +15,7 @@ Looking forward, my aim is to become a Software Developer, leveraging my skills 
 
 
   
-- My Resume https://drive.google.com/file/d/17mAnU2z6lqnDPMscCynjOrPOazd3aOt6/view?usp=sharing
+- My Resume https://drive.google.com/file/d/13ULhtzlT3lSZOm-cI8MgHBw6dvfnvf8Q/view?usp=sharing
   
 - 💼 any freelance work? do reach, [email](guptaxsatwik2.0@gmail.com)
   
